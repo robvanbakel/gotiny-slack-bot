@@ -11,7 +11,11 @@
     "url": "git+https://github.com/robvanbakel/gotiny-slack-bot.git"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Rob van Bakel",
+    "email": "robbakel@gmail.com",
+    "url": "https://robvanbakel.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/robvanbakel/gotiny-slack-bot/issues"
